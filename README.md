@@ -1,123 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,100:ccff00&text=hey%2C%20i'm%20Ayush&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=still%20learning%2C%20always%20building&descSize=18&descAlignY=62&animation=fadeIn" alt="banner" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=CCFF00&center=true&vCenter=true&width=620&lines=20%2C+from+Jharkhand%2C+India+%F0%9F%87%AE%F0%9F%87%B3;BCA+student+who+ships+side+projects;I+turn+%22wouldn't+it+be+cool+if%E2%80%A6%22+into+code;currently+making+an+anime+streaming+site" alt="typing intro" />
-</a>
+<img src="./assets/header.svg" alt="Ayush - BCA student and full stack developer" width="100%" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayushmadara&label=visitors&color=ccff00&style=flat-square" alt="profile views" />
+<a href="https://github.com/ayushmadara"><img src="https://img.shields.io/github/followers/ayushmadara?style=for-the-badge&logo=github&logoColor=ccff00&labelColor=0d1117&color=1f2630" alt="followers" /></a>
+<a href="mailto:ayushxroblox@gmail.com"><img src="https://img.shields.io/badge/Email-ayushxroblox@gmail.com-1f2630?style=for-the-badge&logo=gmail&logoColor=ccff00&labelColor=0d1117" alt="email" /></a>
+<a href="https://in.linkedin.com/in/ayush-kumar-34b83742a"><img src="https://img.shields.io/badge/LinkedIn-connect-1f2630?style=for-the-badge&logo=linkedin&logoColor=ccff00&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/yroxen"><img src="https://img.shields.io/badge/Instagram-@yroxen-1f2630?style=for-the-badge&logo=instagram&logoColor=ccff00&labelColor=0d1117" alt="Instagram" /></a>
 
 </div>
 
 <br/>
 
-## ✦ a little about me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm Ayush, a 20-year-old from Jharkhand studying **BCA** with a focus on full stack development.
+### 👋 hey, i'm Ayush
 
-I learn best by building things I actually want to use: websites, Telegram bots, automation scripts, and the occasional game. Most of my projects start as a random idea at night and end up as something real by the weekend.
+I'm 20, from Jharkhand, studying **BCA** with a focus on full stack development.
 
-Right now I'm trying to understand how a whole project fits together, from the database all the way up to the UI. I'm always up for collabs and open source.
+I learn by building stuff I actually want to use: websites, Telegram bots, automation scripts and the occasional game. Most projects start as a random late-night idea.
+
+Right now I'm learning how a whole project fits together, from the database to the UI. Always up for collabs and open source.
+
+</td>
+<td width="42%" valign="top">
+
+### ⚡ right now
+
+```text
+building   anime streaming site
+improving  security + caching
+learning   React, Node.js
+making     a portfolio of finished
+           small projects
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## ✦ what i'm up to lately
+## 🧰 stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ccff00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ccff00)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=ccff00)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=ccff00)
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=ccff00)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=ccff00)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=ccff00)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ccff00)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ccff00)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=ccff00)
+![Telegram](https://img.shields.io/badge/Telegram%20Bots-0d1117?style=flat-square&logo=telegram&logoColor=ccff00)
+![XAMPP](https://img.shields.io/badge/XAMPP-0d1117?style=flat-square&logo=xampp&logoColor=ccff00)
+
+</div>
+
+<br/>
+
+## 🚀 what i build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🌐 Web apps**<br/>
+PHP + JS sites that pull from APIs, with a UI I design myself.
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 Telegram bots**<br/>
+Python bots for downloads, automation and forwarding.
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Automation**<br/>
+Async scripts handling requests, sessions and proxies.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🏆 Hackathon**<br/>
+Skilling and employment tracking platform for Smart India Hackathon.
+
+</td>
+<td width="33%" valign="top">
+
+**🎮 Roblox games**<br/>
+Multiplayer game ideas written in Lua.
+
+</td>
+<td width="33%" valign="top">
+
+**🎬 Anime streaming site**<br/>
+Custom player, API caching, shared layouts and clean URLs.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 learning path
 
 ```text
- > building   a custom anime streaming site (own player, API caching, clean URLs)
- > improving  security, caching and performance habits
- > collecting a portfolio of small, finished projects
- > learning   React, Node.js and how to deploy things properly
+HTML / CSS / JS        ▰▰▰▰▰▰▰▰▰▰  done
+Python + automation    ▰▰▰▰▰▰▰▰▰▰  done
+PHP + MySQL            ▰▰▰▰▰▰▰▰▰▰  done
+React / Vue            ▱▱▱▱▱▱▱▱▱▱  next
+Node.js + own APIs     ▱▱▱▱▱▱▱▱▱▱  next
+Deploy + security      ▱▱▱▱▱▱▱▱▱▱  next
+DSA                    ▱▱▱▱▱▱▱▱▱▱  next
 ```
 
 <br/>
 
-## ✦ things i've made
-
-**🌐 Web apps**
-PHP and JS sites that pull from APIs, with a UI I designed myself.
-
-**🤖 Telegram bots**
-Python bots for downloads, automation and forwarding stuff around.
-
-**⚙️ Automation**
-Scripts that juggle requests, sessions and proxies so I don't have to.
-
-**🏆 Smart India Hackathon**
-A skilling and employment tracking platform.
-
-**🎮 Roblox games**
-Multiplayer ideas written in Lua, built in Roblox Studio.
-
-<br/>
-
-## ✦ my toolbox
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,php,html,css,mysql,git,github,lua,vscode&perline=10" alt="tech stack" />
-</div>
-
-<br/>
-
-<div align="center">
-
-| | |
-| :--- | :--- |
-| **I write** | Python · JavaScript · PHP · Lua |
-| **I style with** | HTML · CSS · vanilla JS |
-| **I build backends with** | PHP · async Python · REST APIs |
-| **I store data in** | MySQL |
-| **I work with** | Git · GitHub · VS Code · XAMPP |
-
-</div>
-
-<br/>
-
-## ✦ on my radar
-
-- [x] HTML, CSS and JavaScript basics
-- [x] Python scripting and automation
-- [x] PHP and MySQL
-- [ ] React or Vue
-- [ ] Node.js and my own APIs
-- [ ] Deployment, hosting and security basics
-- [ ] Data structures and algorithms
-
-<br/>
-
-## ✦ my numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushmadara&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ccff00&icon_color=ccff00&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmadara&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ccff00&text_color=c9d1d9" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ayushmadara&theme=radical&hide_border=true&background=0d1117&ring=ccff00&fire=ccff00&currStreakLabel=ccff00" alt="streak" />
-
-</div>
-
-<br/>
-
-## ✦ say hi
-
-If you've got a project idea, a bug you can't crack, or just want to talk code, my inbox is open.
-
-<div align="center">
-
-<a href="https://github.com/ayushmadara"><img src="https://img.shields.io/badge/GitHub-ayushmadara-0d1117?style=for-the-badge&logo=github&logoColor=ccff00" alt="GitHub" /></a>
-<a href="mailto:ayushxroblox@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-0d1117?style=for-the-badge&logo=gmail&logoColor=ccff00" alt="Email" /></a>
-<a href="https://in.linkedin.com/in/ayush-kumar-34b83742a"><img src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=ccff00" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/yroxen"><img src="https://img.shields.io/badge/Instagram-follow-0d1117?style=for-the-badge&logo=instagram&logoColor=ccff00" alt="Instagram" /></a>
-
-<br/><br/>
 
 <i>"First, solve the problem. Then, write the code."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:ccff00,100:0d1117&section=footer" alt="footer" width="100%" />
+<img src="./assets/footer.svg" alt="footer" width="100%" />
 
 </div>
